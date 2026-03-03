@@ -1,2 +1,6 @@
 print "And i am a devops engineer"
+<<<<<<< HEAD
 print "I would like to play chess"
+=======
+print "I would like to play chess"
+>>>>>>> feature-branch
