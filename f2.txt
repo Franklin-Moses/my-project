@@ -1,1 +1,2 @@
-print("And i am a devops engineer")
+print "And i am a devops engineer"
+print "I would like to play chess"
