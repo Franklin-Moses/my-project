@@ -1,10 +1,2 @@
 print "And i am a devops engineer"
-<<<<<<< HEAD
-<<<<<<< HEAD
-print "I would like to play chess"
-=======
-print "I would like to play chess"
->>>>>>> feature-branch
-=======
-print "I would like to play chess"
->>>>>>> f3d09c34f228c6019d196915afacf5b5dd20ef2c
+print "i like to play football"
